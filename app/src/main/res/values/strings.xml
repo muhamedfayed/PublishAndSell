@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">PublishAndSell</string>
+
+    <string name="slogin">it\'s a <b>marketplace</b> \n for selling \n and \n buying anything</string>
+    <string name="login">Login</string>
+    <string name="login2"><u>Login</u></string>
+    <string name="get_started">get Started</string>
+
+    <string name="register">Create new account</string>
+    <string name="register2">Create</string>
+    <string name="have_account">I have an account</string>
+    <string name="not_have_account">I do not have an account</string>
+
+    <string name="too_short">It is too short</string>
+    <string name="password_not_match">Password does not match</string>
+    <string name="weak_password">Password is weak</string>
+    <string name="fill_fields">This field can not be empty</string>
+    <string name="created_acc">Your account has been created successfully</string>
+    <string name="user_exist"> The email address is already in use by another account.</string>
+    <string name="not_created">This username exists ,please try another username.</string>
+    <string name="problem">Problem in creating your account, please try again.</string>
+    <string name="user_exist_error">This username already exists</string>
+    <string name="loggedin">Welcome back!</string>
+    <string name="problem_logging">Problem in logging, please try again</string>
+    <string name="no_user">There is no user record corresponding to this identifier. The user may have been deleted.</string>
+    <string name="no_user_msg">Sorry, we don\'t recognize this user.</string>
+    <string name="wrong_password">The password is invalid or the user does not have a password.</string>
+    <string name="wrong_password_error">The password is invalid.</string>
+
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="title">Title</string>
+    <string name="phone">Phone number</string>
+    <string name="description">Price</string>
+    <string name="upload">Upload image</string>
+    <string name="publish">Publish now !</string>
+    <string name="add">Add</string>
+    <string name="logout">Logout</string>
+
+    <string name="add_new">Add new item</string>
+    <string name="empty_fields">Make sure the above fields aren\'t empty !</string>
+    <string name="check">Check the latest posts now !</string>
+    <string name="error">Please try again</string>
+    <string name="loading">loading</string>
+    <string name="retry">retry</string>
+    <string name="no_internet">No internet connection, please try again.</string>
+
+    <string name="title_des">Title for the item you wanna sell</string>
+    <string name="phone_des">Your phone number</string>
+    <string name="price_des">The price that you wanna sell ur item with</string>
+    <string name="photo_des">Your item\'s picture</string>
+    <string name="upload_des">Upload button for the picture</string>
+    <string name="publish_des">let the users see ur post</string>
+    <string name="recycler_view_des">The posts by users is appearing here</string>
+    <string name="refresh_des">You can refresh by this</string>
+
+    <string name="retry_des">retry by clicking on this</string>
+
+    <string name="logo_des">app logo</string>
+    <string name="login_des">Login if you are an existing user</string>
+    <string name="get_start_des">Get start and make new account from here</string>
+    <string name="username_des">Enter user name here</string>
+    <string name="password_des">Enter password here</string>
+    <string name="make_account_des">You can make account by clicking here</string>
+    <string name="check_des">see posts by users from here</string>
+    <string name="pro_image">product image</string>
+
+</resources>
