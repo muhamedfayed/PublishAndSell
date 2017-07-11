@@ -3,10 +3,10 @@ apply plugin: 'com.android.application'
 android {
     signingConfigs {
         config {
-            keyAlias 'muhammed'
-            keyPassword 'password'
-            storeFile file('/home/muhammedfayed/Desktop/PublishAndSell/keystore.jks')
-            storePassword 'password'
+            keyPassword '123456'
+            storeFile file("${rootDir}/key.jks")
+            storePassword '123456'
+            keyAlias 'key0'
         }
     }
     compileSdkVersion 25
@@ -26,6 +26,7 @@ android {
             signingConfig signingConfigs.config
         }
         debug {
+            signingConfig signingConfigs.config
         }
     }
 }
